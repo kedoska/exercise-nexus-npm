@@ -1,0 +1,20 @@
+{
+  "name": "npm-usage",
+  "version": "1.0.0",
+  "description": "A solution that depends on npm-publish",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "example",
+    "demo",
+    "nexus",
+    "devops"
+  ],
+  "author": "Marco Casula <marco.casula@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "score": "^1.0.0"
+  }
+}

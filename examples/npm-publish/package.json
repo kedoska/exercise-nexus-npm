@@ -1,0 +1,17 @@
+{
+  "name": "score",
+  "version": "1.0.0",
+  "description": "A score demo package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "example",
+    "demo",
+    "nexus",
+    "devops"
+  ],
+  "author": "Marco Casula <marco.casula@gmail.com>",
+  "license": "ISC"
+}
